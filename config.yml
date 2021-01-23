@@ -1,0 +1,20 @@
+baseURL: "https://jensadamczak.github.io/hugo-snippets/"
+languageCode: "en-us"
+title: "Snippets"
+theme: "snippets"
+taxonomies:
+  blog: blogs
+  reference: references
+  code: codes
+menu:
+  main:
+    - identifier: "About"
+      name: "About"
+      url: "/about/"
+    - identifier: "archive"
+      name: "Archive"
+      url: "/archive/"
+markup:
+  highlight:
+    style: github 
+paginate: 3
