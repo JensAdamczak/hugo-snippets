@@ -41,7 +41,7 @@ def test_func(x, y, z): &amp;#39;&amp;#39;&amp;#39;A long comment line is starti
       <pubDate>Sat, 09 Jan 2021 15:44:10 +0100</pubDate>
       
       <guid>https://jensadamczak.github.io/hugo-snippets/about/</guid>
-      <description>The example site demonstrates how to use Hugo taxonomies to create and nicely formatted overview of notes and references.</description>
+      <description>The example site demonstrates how to use Hugo taxonomies to create an nicely formatted overview of notes and references.</description>
     </item>
     
     <item>
