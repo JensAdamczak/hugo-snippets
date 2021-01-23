@@ -1,3 +1,5 @@
-# notes
+# Example site 
 
-Collecting code snippets and information about online articles and books.
+The branch example-site contains a working example on how to create a website using the [Snippets
+Hugo theme](https://github.com/JensAdamczak/hugo-snippets).
+
