@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/blogs/coding/</link>
+    <description>Recent content in coding on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:23 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/blogs/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog post</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/blog_post/</link>
+      <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/blog_post/</guid>
+      <description>Welcome Welcome to the first blog article of the year.
+Details Formatting in the content markdown files will reflect in different font-sizes.</description>
+    </item>
+    
+  </channel>
+</rss>

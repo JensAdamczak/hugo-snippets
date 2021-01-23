@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/blogs/r/</link>
+    <description>Recent content in R on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/blogs/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article review</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/article_review/</link>
+      <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/article_review/</guid>
+      <description>Found an interesting post at Notes.
+Find my summary below.
+With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed.</description>
+    </item>
+    
+  </channel>
+</rss>

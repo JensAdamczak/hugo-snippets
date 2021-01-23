@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/codes/</link>
+    <description>Recent content in Codes on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 22:37:37 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/codes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/codes/python/</link>
+      <pubDate>Wed, 20 Jan 2021 22:37:37 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/codes/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stats</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/codes/stats/</link>
+      <pubDate>Thu, 07 Jan 2021 16:35:10 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/codes/stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/codes/r/</link>
+      <pubDate>Thu, 17 Jan 2019 11:27:56 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/codes/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hive</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/codes/hive/</link>
+      <pubDate>Mon, 07 Jan 2019 16:36:41 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/codes/hive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
