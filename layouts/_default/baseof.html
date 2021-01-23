@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Styles -->
     <link href="{{ "style.css" | absURL }}" rel="stylesheet">
     <link href="{{ "custom.css" | absURL }}" rel="stylesheet">
   </head>
     <body>
-    <header>
+    <header class="header-bar">
       <nav class="site-nav">
         <p class="site-nav__logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></p>
         {{- if .Site.Menus.main }}
@@ -32,7 +35,7 @@
       </span>
       <span>&middot;</span>
       <span>
-          Theme️ <a href="https://github.com/jensadamczak/hugo-snippets" rel="noopener" target="_blank">Paper</a>
+          Theme <a href="https://github.com/jensadamczak/hugo-snippets" rel="noopener" target="_blank">Snippets</a>
       </span>
     </footer>
     </body>
