@@ -1,9 +1,8 @@
 ---
-title: "Article review"
+title: "Interesting online post"
 date: 2021-01-07T18:36:23+01:00
 draft: false 
-blogs: ['R', 'stats']
-references: ['R', 'Python', 'stats']
+links: [Coding]
 ---
 
 Found an interesting post at [Notes](https://jensadamczak.github.io/notes/). 

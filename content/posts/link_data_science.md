@@ -1,0 +1,9 @@
+---
+title: "Great solution proposed"
+date: 2021-01-20T22:37:45+01:00
+links: ['Data Science']
+draft: false 
+---
+
+Might not contain code at all but some reference to an online article found at
+[KDnuggets](https://www.kdnuggets.com/).

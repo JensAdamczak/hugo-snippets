@@ -5,6 +5,6 @@ type: "about"
 draft: false
 ---
 
-The example site demonstrates how to use Hugo taxonomies to create an nicely formatted overview of
+The example site demonstrates how to use Hugo taxonomies to create a nicely formatted overview of
 notes and references.
 

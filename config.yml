@@ -3,9 +3,9 @@ languageCode: "en-us"
 title: "Snippets"
 theme: "snippets"
 taxonomies:
-  blog: blogs
-  reference: references
-  code: codes
+  article: articles
+  link: links 
+  snippet: snippets
 menu:
   main:
     - identifier: "About"

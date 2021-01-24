@@ -1,7 +1,7 @@
 ---
 title: "Python script"
 date: 2021-01-20T22:37:37+01:00
-codes: ['Python']
+snippets: ['Python']
 draft: false 
 ---
 

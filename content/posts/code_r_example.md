@@ -2,7 +2,7 @@
 title: "Old post about R"
 date: 2019-01-17T11:27:56+01:00
 draft: false 
-codes: ['R']
+snippets: ['R']
 ---
 
 Let's write some code snippet here for future reference.
