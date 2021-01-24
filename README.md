@@ -17,10 +17,10 @@ For more details about the branches and the theme check the
 
 <p align="center">
   <img width=600px
-src="https://github.com/JensAdamczak/hugo-snippets/images/hugo_snippets_desktop.png"
+src="https://github.com/JensAdamczak/hugo-snippets/blob/master/images/hugo_snippets_desktop.png"
 alt="Snippets Desktop" />
   <img width=153px
-src="https://github.com/JensAdamczak/hugo-snippets/images/hugo_snippets_mobile.png" alt="Snippets
-Mobile" />
+src="https://github.com/JensAdamczak/hugo-snippets/blob/master/images/hugo_snippets_mobile.png"
+alt="Snippets Mobile" />
 </p>
 
