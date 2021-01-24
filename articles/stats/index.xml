@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stats on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/articles/stats/</link>
+    <description>Recent content in Stats on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:23 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/articles/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My own blog post</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_1/</link>
+      <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_1/</guid>
+      <description>Welcome Welcome to the first blog article of the year.
+Details This is something I wrote myself and like to share.</description>
+    </item>
+    
+  </channel>
+</rss>

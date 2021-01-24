@@ -8,20 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jan 2021 22:37:45 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python small note</title>
-      <link>https://jensadamczak.github.io/hugo-snippets/posts/python_small_note/</link>
+      <title>Great solution proposed</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/link_data_science/</link>
       <pubDate>Wed, 20 Jan 2021 22:37:45 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/hugo-snippets/posts/python_small_note/</guid>
-      <description>Might note contain code at all but some reference to an online article found at KDnuggets.</description>
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/link_data_science/</guid>
+      <description>Might not contain code at all but some reference to an online article found at KDnuggets.</description>
     </item>
     
     <item>
       <title>Python script</title>
-      <link>https://jensadamczak.github.io/hugo-snippets/posts/python_script/</link>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/code_python_script/</link>
       <pubDate>Wed, 20 Jan 2021 22:37:37 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/hugo-snippets/posts/python_script/</guid>
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/code_python_script/</guid>
       <description>Let&amp;rsquo;s write something here. In particular a long formula to test the line wrapping.
 def test_func(x, y, z): &amp;#39;&amp;#39;&amp;#39;A long comment line is starting this function of.&amp;#39;&amp;#39;&amp;#39; res = x**2 + y**2 + z**2 + x*y*z + 2*x + 2*y + 2*z return res </description>
     </item>
@@ -41,15 +41,15 @@ def test_func(x, y, z): &amp;#39;&amp;#39;&amp;#39;A long comment line is starti
       <pubDate>Sat, 09 Jan 2021 15:44:10 +0100</pubDate>
       
       <guid>https://jensadamczak.github.io/hugo-snippets/about/</guid>
-      <description>The example site demonstrates how to use Hugo taxonomies to create an nicely formatted overview of notes and references.</description>
+      <description>The example site demonstrates how to use Hugo taxonomies to create a nicely formatted overview of notes and references.</description>
     </item>
     
     <item>
-      <title>Article review</title>
-      <link>https://jensadamczak.github.io/hugo-snippets/posts/article_review/</link>
+      <title>Interesting online post</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/link_online_post/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/hugo-snippets/posts/article_review/</guid>
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/link_online_post/</guid>
       <description>Found an interesting post at Notes.
 Find my summary below.
 With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed.</description>
@@ -61,37 +61,46 @@ With a lot of text to check how it will be displayed. With a lot of text to chec
       <pubDate>Thu, 07 Jan 2021 16:35:10 +0100</pubDate>
       
       <guid>https://jensadamczak.github.io/hugo-snippets/posts/code_python_stats/</guid>
-      <description>First post goes here. It&amp;rsquo;s about Python.
+      <description>Code snippet goes here. It&amp;rsquo;s about Python.
 def calc(x, y): &amp;#39;&amp;#39;&amp;#39;A simple statistical function&amp;#39;&amp;#39;&amp;#39; z = x + y return z </description>
     </item>
     
     <item>
-      <title>Blog post</title>
-      <link>https://jensadamczak.github.io/hugo-snippets/posts/blog_post/</link>
+      <title>Pancake recipe</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_2/</link>
+      <pubDate>Fri, 08 May 2020 13:42:21 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_2/</guid>
+      <description>My favorite dish I am also interested in cooking. And like to keep a collection of recipes.</description>
+    </item>
+    
+    <item>
+      <title>My own blog post</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_1/</link>
       <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/hugo-snippets/posts/blog_post/</guid>
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_1/</guid>
       <description>Welcome Welcome to the first blog article of the year.
-Details Formatting in the content markdown files will reflect in different font-sizes.</description>
+Details This is something I wrote myself and like to share.</description>
     </item>
     
     <item>
       <title>Old post about R</title>
-      <link>https://jensadamczak.github.io/hugo-snippets/posts/old_post_r/</link>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/code_r_example/</link>
       <pubDate>Thu, 17 Jan 2019 11:27:56 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/hugo-snippets/posts/old_post_r/</guid>
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/code_r_example/</guid>
       <description>Let&amp;rsquo;s write some code snippet here for future reference.
 calc_bin_var &amp;lt;- function(p, n) { var &amp;lt;- p * (1 - p) var } bin_var = calc_bin_var(0.2, 25) bin_var </description>
     </item>
     
     <item>
       <title>Hive function</title>
-      <link>https://jensadamczak.github.io/hugo-snippets/posts/hive_function/</link>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/code_hive_function/</link>
       <pubDate>Mon, 07 Jan 2019 16:36:41 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/hugo-snippets/posts/hive_function/</guid>
-      <description>Post about some interesing Hive function.</description>
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/code_hive_function/</guid>
+      <description>Post about some interesting Hive function.</description>
     </item>
     
   </channel>

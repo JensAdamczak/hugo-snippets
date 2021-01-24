@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/links/</link>
+    <description>Recent content in Links on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 22:37:45 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/links/data-science/</link>
+      <pubDate>Wed, 20 Jan 2021 22:37:45 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/links/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/links/coding/</link>
+      <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/links/coding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

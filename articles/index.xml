@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/articles/</link>
+    <description>Recent content in Articles on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2020 13:42:21 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooking</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/articles/cooking/</link>
+      <pubDate>Fri, 08 May 2020 13:42:21 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/articles/cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/articles/coding/</link>
+      <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/articles/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stats</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/articles/stats/</link>
+      <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/articles/stats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

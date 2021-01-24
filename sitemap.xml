@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/links/data-science/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/link_data_science/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/links/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jensadamczak.github.io/hugo-snippets/posts/</loc>
-    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/references/python/</loc>
-    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/posts/python_small_note/</loc>
-    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/references/</loc>
     <lastmod>2021-01-20T22:37:45+01:00</lastmod>
   </url>
   
@@ -28,17 +28,17 @@
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/codes/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/snippets/python/</loc>
     <lastmod>2021-01-20T22:37:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/codes/python/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/code_python_script/</loc>
     <lastmod>2021-01-20T22:37:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/posts/python_script/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/snippets/</loc>
     <lastmod>2021-01-20T22:37:37+01:00</lastmod>
   </url>
   
@@ -53,32 +53,12 @@
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/posts/article_review/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/links/coding/</loc>
     <lastmod>2021-01-07T18:36:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/blogs/</loc>
-    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/references/r/</loc>
-    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/blogs/r/</loc>
-    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/references/stats/</loc>
-    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/blogs/stats/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/link_online_post/</loc>
     <lastmod>2021-01-07T18:36:23+01:00</lastmod>
   </url>
   
@@ -88,37 +68,57 @@
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/codes/stats/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/snippets/stats/</loc>
     <lastmod>2021-01-07T16:35:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/posts/blog_post/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/articles/</loc>
+    <lastmod>2020-05-08T13:42:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/articles/cooking/</loc>
+    <lastmod>2020-05-08T13:42:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_2/</loc>
+    <lastmod>2020-05-08T13:42:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/articles/coding/</loc>
     <lastmod>2020-01-07T16:47:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/blogs/coding/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/blog_post_1/</loc>
     <lastmod>2020-01-07T16:47:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/posts/old_post_r/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/articles/stats/</loc>
+    <lastmod>2020-01-07T16:47:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/code_r_example/</loc>
     <lastmod>2019-01-17T11:27:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/codes/r/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/snippets/r/</loc>
     <lastmod>2019-01-17T11:27:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/codes/hive/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/snippets/hive/</loc>
     <lastmod>2019-01-07T16:36:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/hugo-snippets/posts/hive_function/</loc>
+    <loc>https://jensadamczak.github.io/hugo-snippets/posts/code_hive_function/</loc>
     <lastmod>2019-01-07T16:36:41+01:00</lastmod>
   </url>
   

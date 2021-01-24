@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Snippets</title>
+    <link>https://jensadamczak.github.io/hugo-snippets/snippets/r/</link>
+    <description>Recent content in R on Snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 11:27:56 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/hugo-snippets/snippets/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old post about R</title>
+      <link>https://jensadamczak.github.io/hugo-snippets/posts/code_r_example/</link>
+      <pubDate>Thu, 17 Jan 2019 11:27:56 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/hugo-snippets/posts/code_r_example/</guid>
+      <description>Let&amp;rsquo;s write some code snippet here for future reference.
+calc_bin_var &amp;lt;- function(p, n) { var &amp;lt;- p * (1 - p) var } bin_var = calc_bin_var(0.2, 25) bin_var </description>
+    </item>
+    
+  </channel>
+</rss>
