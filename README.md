@@ -8,5 +8,16 @@ updated with
 
 ```
 git submodule update --remote --recursive
+git commit -a -m 'Update submodule'
+git push origin example-site
+```
+
+The site can be rebuild after the change with
+
+```
+bash publish.sh
+cd public
+git push --all
+cd ..
 ```
 
