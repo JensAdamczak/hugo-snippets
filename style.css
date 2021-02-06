@@ -137,19 +137,13 @@ pre {
   font-size: 0.8rem;
   border: 1px solid var(--color-5);
   border-radius: 2px;
-  word-wrap: normal;
-  white-space: pre;
   overflow: auto;
-  overflow-wrap: normal;
-  -webkit-overflow-scrolling: touch;
 }
 
 code {
-  word-wrap: normal;
   white-space: pre;
-  overflow: auto;
-  overflow-wrap: normal;
-  -webkit-overflow-scrolling: touch;
+  display: inline-block;
+  word-break: break-all;
 }
 
 /* Site header */
