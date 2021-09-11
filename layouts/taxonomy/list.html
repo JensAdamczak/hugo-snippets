@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ $paginator := .Paginate $pages }}
-{{ range $paginator.Pages }}
+{{ range $paginator.Pages.ByDate.Reverse }}
 <article class="post post--no-margin">
   <h1 class="title title--link">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
